@@ -42,12 +42,8 @@ If you search for `Alice` in the first column and ask for column index `3` (Depa
 
 1. Download the `search_csv_node.py` file.
 2. Place the file in the `custom_nodes` directory of your ComfyUI installation.
-3. Restart ComfyUI, and the node should appear under the "CSV Nodes" category.
+3. Restart ComfyUI, and the node should appear under the "Util" category.
 
-## Requirements
-
-- **ComfyUI**: Ensure you have ComfyUI installed and running on your system.
-- **Python 3.x**: The node is written in Python and requires Python 3 to function correctly.
 
 ## License
 
