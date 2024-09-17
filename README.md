@@ -1,7 +1,7 @@
 Just a simple custom node created to do simple job.
 I started to use comfyui since this March, after serveral month I kinda found my way of generating "random" image using different character loras. But there is always a problem to used the "correct" trigger words.
 There are several nodes which can read trigger word from civitai or local file, but still, the tigger words cannot be modified as I need. So I started to create my own little table of certain loras with my tested trigger words.
-There are also some case I would like to know which character was in the image generated, so with an additional column of character's name and the original franchise. So I can use the return value for naming the image or make generated padding titles.
+There are also some case I would like to know which character was in the image generated, so I also add a column of character's name and the original franchise, Then I can use the return value for naming the image or make generated padding titles.
 
 To used the custom node, just download the .py file and put it into custom node folder of comfyui and restart your session. 
 The node can be found under "util" category of nodes.
